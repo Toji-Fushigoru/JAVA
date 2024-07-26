@@ -1,0 +1,4 @@
+# How to convert a positive number into a negative one
+By performing 2's complement:
+1) Complement the given number 
+2) Add 1 to it
